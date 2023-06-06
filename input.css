@@ -1,0 +1,751 @@
+.input-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.input-desktop1 {
+  width: 100%;
+  height: 3198px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.input-rectangle27 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 3198px;
+  position: absolute;
+}
+.input-rectangle2 {
+  top: 36px;
+  left: -49px;
+  width: 1516px;
+  height: 104px;
+  position: absolute;
+}
+.input-ellipse1 {
+  top: 254.9775390625px;
+  left: 171.478271484375px;
+  width: 464px;
+  height: 459px;
+  position: absolute;
+}
+.input-altokelogo2paletadecolores8 {
+  top: 208px;
+  left: 50px;
+  width: 723px;
+  height: 609px;
+  position: absolute;
+}
+.input-altokelogo2paletadecolores3 {
+  top: 36px;
+  left: 93px;
+  width: 92px;
+  height: 97px;
+  position: absolute;
+}
+.input-rectangle29button {
+  top: 63px;
+  left: 968px;
+  width: 171px;
+  height: 45px;
+  position: absolute;
+  border-radius: 31px;
+}
+.input-text {
+  top: 77px;
+  left: 1001px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-rectangle30button {
+  top: 62px;
+  left: 1189px;
+  width: 171px;
+  height: 45px;
+  position: absolute;
+  border-radius: 31px;
+}
+.input-text02 {
+  top: 77px;
+  left: 1221px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-rectangle35 {
+  top: 57px;
+  left: 254px;
+  width: 478px;
+  height: 54px;
+  position: absolute;
+  border-radius: 31px;
+}
+.input-rectangle38 {
+  top: 57px;
+  left: 254px;
+  width: 478px;
+  height: 54px;
+  position: absolute;
+  border-radius: 31px;
+}
+.input-slogan22 {
+  top: -8px;
+  left: 254px;
+  width: 476px;
+  height: 274px;
+  position: absolute;
+}
+.input-rectangle36button {
+  top: 585px;
+  left: 928px;
+  width: 293px;
+  height: 62px;
+  position: absolute;
+  border-color: rgba(47, 62, 68, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 31px;
+}
+.input-text04 {
+  top: 603px;
+  left: 1038px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-rectangle37 {
+  top: 2718px;
+  left: 0px;
+  width: 1440px;
+  height: 480px;
+  position: absolute;
+}
+.input-text06 {
+  top: 3098px;
+  left: 269px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-rectangle12 {
+  top: 931px;
+  left: 50px;
+  width: 1338px;
+  height: 9px;
+  position: absolute;
+}
+.input-ddeee1 {
+  top: 208px;
+  left: 684px;
+  width: 739px;
+  height: 497px;
+  position: absolute;
+}
+.input-content {
+  gap: 125px;
+  top: 2804px;
+  left: 250px;
+  width: 170px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+}
+.input-framedesktopmenu {
+  gap: 20px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.input-framefootermenustyle2 {
+  gap: 15px;
+  width: 170px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.input-h3 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  overflow: hidden;
+  align-items: center;
+}
+.input-text08 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-list {
+  gap: 16px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.input-text-link {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.input-text10 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-text-link1 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.input-text12 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-text-link2 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.input-text14 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-text-link3 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.input-text16 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-text-link4 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.input-row {
+  gap: 10px;
+  top: 2805px;
+  left: 1018px;
+  width: 207px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.input-block {
+  display: flex;
+  padding: 0 0 0 7px;
+  overflow: hidden;
+  align-items: center;
+}
+.input-bxbxmap {
+  width: 46px;
+  height: 46px;
+}
+.input-adress {
+  display: flex;
+  padding: 0 8px;
+  overflow: hidden;
+  align-items: center;
+}
+.input-text18 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  font-size: 15px;
+  font-style: Light;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 300;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-block1 {
+  gap: 17px;
+  width: 207px;
+  height: 24px;
+  display: flex;
+  padding: 0 6px 0 16px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+}
+.input-vector {
+  width: 26px;
+  height: 21px;
+}
+.input-adress1 {
+  display: flex;
+  padding: 0 8px 0 2px;
+  overflow: hidden;
+  align-items: center;
+}
+.input-text20 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  font-size: 15px;
+  font-style: Light;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 300;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-block2 {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.input-adress2 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.input-icbaselinephoneandroid {
+  width: 35px;
+  height: 35px;
+}
+.input-text22 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  font-size: 15px;
+  font-style: Light;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 300;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-socialmedia {
+  gap: 24px;
+  display: flex;
+  padding: 20px 0;
+  overflow: hidden;
+  align-items: center;
+}
+.input-antdesigntwitteroutlined {
+  width: 41px;
+  height: 41px;
+}
+.input-antdesignlinkedinfilled {
+  width: 41px;
+  height: 41px;
+}
+.input-image9 {
+  width: 36px;
+  height: 36px;
+}
+.input-rectangle39 {
+  top: 1005px;
+  left: 50px;
+  width: 1338px;
+  height: 540px;
+  position: absolute;
+  border-radius: 65px;
+}
+.input-rectangle41 {
+  top: 1615px;
+  left: 0px;
+  width: 1440px;
+  height: 578px;
+  position: absolute;
+}
+.input-rectangle42 {
+  top: 1659px;
+  left: 50px;
+  width: 335px;
+  height: 102px;
+  position: absolute;
+  border-radius: 25px;
+}
+.input-rectangle45 {
+  top: 1659px;
+  left: 407px;
+  width: 228px;
+  height: 102px;
+  position: absolute;
+  border-radius: 25px;
+}
+.input-rectangle43 {
+  top: 1784px;
+  left: 50px;
+  width: 585px;
+  height: 375px;
+  position: absolute;
+  border-radius: 25px;
+}
+.input-rectangle44 {
+  top: 1659px;
+  left: 670px;
+  width: 718px;
+  height: 500px;
+  position: absolute;
+  border-radius: 25px;
+}
+.input-frametextcontent {
+  gap: 7px;
+  top: 2277px;
+  left: 128px;
+  width: 507px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.input-h2 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.input-text24 {
+  color: var(--dl-color-default-text);
+  height: auto;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 55px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-h4 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.input-text26 {
+  color: var(--dl-color-default-secondtext);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-antdesignmailoutlined {
+  top: 3005px;
+  left: 1038px;
+  width: 27px;
+  height: 22px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+.input-masterbutton {
+  gap: 10px;
+  top: 2644px;
+  left: 918px;
+  width: 145px;
+  display: flex;
+  padding: 18px 38px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 35px;
+  flex-direction: column;
+  background-color: rgba(86, 130, 129, 1);
+}
+.input-text-button {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.input-text31 {
+  color: var(--dl-color-default-lighttext);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-input {
+  gap: 47px;
+  top: 2432px;
+  left: 817px;
+  width: 348px;
+  display: flex;
+  padding: 23px 20px;
+  overflow: hidden;
+  position: absolute;
+  align-self: stretch;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(245, 245, 245, 1);
+}
+.input-frame2input {
+  color: rgba(24, 23, 29, 1);
+  width: 308px;
+  height: 147px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  font-size: 15px;
+  align-self: stretch;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 400;
+  padding-left: 1px;
+}
+.input-input1 {
+  gap: 47px;
+  top: 2337px;
+  left: 812px;
+  color: rgba(24, 23, 29, 1);
+  width: 348px;
+  display: flex;
+  padding: 19px 20px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  align-self: stretch;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 400;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 39px;
+  flex-direction: column;
+  background-color: rgba(245, 245, 245, 1);
+}
+.input-input2 {
+  gap: 47px;
+  top: 2242px;
+  left: 812px;
+  color: rgba(24, 23, 29, 1);
+  width: 348px;
+  display: flex;
+  padding: 19px 20px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 15px;
+  align-self: stretch;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  text-align: left;
+  align-items: flex-start;
+  font-family: Roboto;
+  font-weight: 400;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 39px;
+  flex-direction: column;
+  background-color: rgba(245, 245, 245, 1);
+}
+.input-miss1 {
+  top: 1630px;
+  left: -7px;
+  width: 528px;
+  height: 155px;
+  position: absolute;
+}
+.input-qs21 {
+  top: 1040px;
+  left: 510px;
+  width: 419px;
+  height: 96px;
+  position: absolute;
+}
+.input-image3fe096b55537e8c0dd845224b3254d11siluetadecohe {
+  top: 1666px;
+  left: 477px;
+  width: 89px;
+  height: 87px;
+  position: absolute;
+}
+.input-rectangle46 {
+  top: 1165px;
+  left: 499px;
+  width: 429px;
+  height: 338px;
+  position: absolute;
+  border-radius: 32px;
+}
+.input-text33 {
+  top: 1196px;
+  left: 529px;
+  color: rgba(0, 0, 0, 1);
+  width: 369px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Delius;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-altokelogo2paletadecolores9 {
+  top: 1151px;
+  left: 53px;
+  width: 424px;
+  height: 365px;
+  position: absolute;
+}
+.input-image10 {
+  top: 1075px;
+  left: 929px;
+  width: 473px;
+  height: 470px;
+  position: absolute;
+}
+.input-text48 {
+  top: 1806px;
+  left: 62px;
+  color: rgba(0, 0, 0, 1);
+  width: 561px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Delius;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.input-image11 {
+  top: 1835px;
+  left: 906px;
+  width: 153px;
+  height: 153px;
+  position: absolute;
+}
+.input-image12 {
+  top: 1798px;
+  left: 703px;
+  width: 167px;
+  height: 228px;
+  position: absolute;
+}
+.input-image13 {
+  top: 1843px;
+  right: 91px;
+  width: 257px;
+  height: 179px;
+  position: absolute;
+}
